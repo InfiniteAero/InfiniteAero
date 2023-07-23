@@ -1,5 +1,7 @@
 Epic programmer and an okayish designer
 
+Haven't used GitHub much, I just send people the files themselves
+
 Interested in making a personal website someday
 
 Competitive programming is a nice sport (no need for sweating)
